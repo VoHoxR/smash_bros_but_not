@@ -1,0 +1,8 @@
+res://world.tscn
+res://player.tscn
+res://hideywall.tscn
+res://ui.tscn
+res://player.gd
+res://Panel.gd
+res://panel.tscn
+res://world.gd
